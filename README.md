@@ -1,6 +1,6 @@
 # Overview
 
-Forked from the excelent jsgif project (https://github.com/shachaf/jsgif), which was implemented as a bookmarklet to manipulate animated gifs (http://slbkbs.org/jsgif).
+Forked from the excellent jsgif project (https://github.com/shachaf/jsgif), which was implemented as a bookmarklet to manipulate animated gifs (http://slbkbs.org/jsgif).
 
 This is an attempt to pull out the gif parsing and playing logic, seperate it from the bookmarklet, and publish it as a library that you can use in your project.
 
